@@ -1568,6 +1568,7 @@ hdrline_start:
 
                                         break;
                                 }
+
                                 break;
                             case eval_hdr_val_content_type:
                                 if (p->buf_idx != 9) {
